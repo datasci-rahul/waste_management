@@ -15,23 +15,9 @@
 ## Data Source
 - In this project i have collected and filtered data by my self from google images and dreamstime.com
 - I have uploaded my dataset on google drive. 
-- [click here to get dataset](https://drive.google.com/drive/folders/1CTvT_gnTvwlcKwJ8yz4jUOs0JYTKrplA?usp=sharing)
+- [click here to get dataset](https://drive.google.com/drive/folders/1I3nO4Z09VvrwCOJtWsxBvBZnhnw29Ypr?usp=sharing)
 
-## Demo
-- I have deployed this on AWS Elastic Beanstalk platform
-Link: [http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/](http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/)
 
-![GIF](readme_resources/projectDemo.gif)
-
-## How to use
-- Click on image icon and upload image or if you are on mobile then click on camera icon and capture the waste and upload image.
-- Click on Classify your waste material button it will classify your waste and show you the result in details
-
-## Deployment
-#### Prepare a configuration file in main directory
-1. Create .ebextensions folder to your main directory
-2. Inside .ebextensions folder create a python.config file and write configration like [this](https://github.com/jaysoftic/awareness-of-waste-recycling/blob/master/.ebextensions/python.config)
-3. Create .ebignore file inside main directory
 
 #### Here's simple steps to create an application on Elastic Bean Stalk
 1. Open the Elastic Beanstalk console using this link: https://console.aws.amazon.com/elasticbeanstalk/home#/gettingStarted?applicationName=getting-started-app
@@ -48,11 +34,8 @@ Link: [http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/](h
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://github.com/tomchen/stack-icons/raw/master/logos/bootstrap.svg"></code>
 <code><img height="30" src="https://symbols.getvecta.com/stencil_80/56_flask.3a79b5a056.jpg"></code>
 <code><img height="30" src="https://d1.awsstatic.com/icons/console_elasticbeanstalk_icon.0f7eb0140e1ef6c718d3f806beb7183d06756901.png"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></code>
