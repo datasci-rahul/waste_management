@@ -61,7 +61,7 @@ Link: [http://wasterecycling-env.eba-xcpktyd2.us-east-2.elasticbeanstalk.com/](h
 - My motivation watch is [here](https://www.youtube.com/watch?v=NhF4pXBNfq8)
 
 ## Team
-[![Rahul Sharma]((https://github.com/[datasci-rahul]/[personal]/[main]/DSC_0383-01.jpeg?raw=true))](https://in.linkedin.com/in/datasci-rahul) |
+[![Rahul Sharma](https://github.com/datasci-rahul/personal/blob/main/DSC_0383-01.jpeg)](https://in.linkedin.com/in/datasci-rahul) |
 -|
 [Rahul Sharma](https://www.linkedin.com/in/datasci-rahul/) |)
 
