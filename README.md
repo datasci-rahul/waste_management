@@ -1,5 +1,4 @@
 # Waste Management :india:
-![GIF](static/images/awareness_of_waste_recycling.png)
 
 #### The world generates at least 3.5 million tons of waste per day and this number is still increasing day by day that's why we need to aware about waste.
 #### This web application can classify waste with 9 different waste materials and it will show you the details of that particular waste materials. This will help to raise awareness for people to reduce and recycle waste.
